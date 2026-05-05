@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "24/7 AFK bot for Aternos",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
