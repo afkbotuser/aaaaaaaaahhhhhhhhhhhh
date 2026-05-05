@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 const botArgs = {
     host: 'primesmpseasons.aternos.me', // Your Aternos IP
     port: 25565,                     // Standard Java port
-    username: 'YOUR_BOT_NAME',       // The name you whitelisted
+    username: 'PRIME_LEGEND',       // The name you whitelisted
     version: '1.21.1',               // Your server version
     auth: 'offline'                  // Required for Cracked servers
 };
